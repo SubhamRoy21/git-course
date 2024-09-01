@@ -1,2 +1,6 @@
 this is first file
 add another text to commit
+this is first file
+add another text to commit
+this is first file
+add another text to commit
